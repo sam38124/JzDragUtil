@@ -49,7 +49,8 @@ implementation 'com.github.sam38124:JzGragUtil:1.0'
 
 <a name="About"></a>
 # About me
-## <font color="#660000">【Orange Electronic】</font><br /> 
+#### <font color="#0000dd"> Work for: </font><br /> 
++ ##### <font color="#660000">【Orange Electronic】</font><br /> 
 #### <font color="#0000dd"> Position: </font><br /> 
 + ##### Full stack engineer<br/>  
 #### <font color="#0000dd"> Main defense range: </font><br /> 
